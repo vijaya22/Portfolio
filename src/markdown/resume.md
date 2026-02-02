@@ -1,7 +1,7 @@
 # Vijaya Laxmi
 
 **Senior Full Stack Engineer**
-+91 9882551215 &middot; [vijaya2798@gmail.com](mailto:vijaya2798@gmail.com) &middot; [GitHub](https://github.com/vijaya22) &middot; [LinkedIn](https://www.linkedin.com/in/vijayalaxmi166/)
+[vijaya2798@gmail.com](mailto:vijaya2798@gmail.com) &middot; [GitHub](https://github.com/vijaya22) &middot; [LinkedIn](https://www.linkedin.com/in/vijayalaxmi166/)
 
 Results-driven Senior Full Stack Engineer with a proven record of delivering scalable web applications and measurable impact—over $4M in cost savings, 13% traffic reduction, and 80% improvement in photo upload success rates. Skilled in modern tech stacks, data-driven design, and leading cross-functional teams to ship complex, user-focused solutions end-to-end.
 
