@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Every Second Counts — Chrome Extension",
+    "description": "A Chrome extension that replaces your new tab with a live clock, reminding you that every second counts.",
+    "tags": ["Chrome Extension", "JavaScript", "HTML", "CSS"],
+    "github": "https://github.com/vijaya22/countdown",
+    "live": "https://chromewebstore.google.com/detail/every-second-counts/dbpmgoghpheaeldmfgifedhjbdookjbo"
+  },
+  {
+    "title": "Be My Valentine",
+    "description": "An interactive Valentine's Day message generator. Fill in details and share a personalized link with your special someone.",
+    "tags": ["JavaScript", "HTML", "CSS"],
+    "github": "https://github.com/vijaya22/be-my-valentine",
+    "live": "https://vijaya22.github.io/be-my-valentine/"
+  },
+  {
+    "title": "Interview Prep",
+    "description": "A searchable knowledge base for interview preparation with organized topics and sidebar navigation.",
+    "tags": ["JavaScript", "HTML", "CSS"],
+    "github": "https://github.com/vijaya22/interview-prep",
+    "live": "https://vijaya22.github.io/interview-prep/"
+  },
+  {
+    "title": "Every Second Counts — Clock",
+    "description": "An interactive analog clock with animated hands and an optional ticking sound effect.",
+    "tags": ["JavaScript", "HTML", "CSS", "Canvas"],
+    "github": "https://github.com/vijaya22/everysecondcounts",
+    "live": "https://vijaya22.github.io/everysecondcounts/"
+  },
+  {
+    "title": "Vyne",
+    "description": "A minimal, ready-to-use Next.js starter template with best practices — perfect for quick project setups.",
+    "tags": ["Next.js", "TypeScript", "JavaScript", "CSS"],
+    "github": "https://github.com/vijaya22/vyne",
+    "live": ""
+  },
+  {
+    "title": "Vyre",
+    "description": "A modern, scalable Next.js frontend starter with SEO-friendly routing, responsive design, and easy extensibility.",
+    "tags": ["Next.js", "TypeScript", "HTML", "CSS"],
+    "github": "https://github.com/vijaya22/vyre",
+    "live": ""
+  },
+  {
+    "title": "Daily Quotes",
+    "description": "Displays a different inspirational quote each day with a matching background image, selected by hashing the current date.",
+    "tags": ["JavaScript", "HTML", "CSS"],
+    "github": "https://github.com/vijaya22/daily-quotes",
+    "live": "https://vijaya22.github.io/daily-quotes/"
+  },
+  {
+    "title": "C-Sign",
+    "description": "Android application for verifying user identity using digital signatures and two-factor authentication. Built during internship at CDAC.",
+    "tags": ["Android", "Java", "Cryptography", "2FA"],
+    "github": "https://github.com/vijaya22",
+    "live": ""
+  },
+  {
+    "title": "Sentiment Analysis",
+    "description": "Final year project analyzing sentiment from text data using machine learning techniques. Classifies text as positive, negative, or neutral.",
+    "tags": ["Python", "Machine Learning", "NLP", "Scikit-learn"],
+    "github": "https://github.com/vijaya22",
+    "live": ""
+  }
+]

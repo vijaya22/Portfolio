@@ -1,0 +1,24 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const base = import.meta.env.BASE_URL;
+
+// Import the resume markdown file
+const resumeMod = await import('../markdown/resume.md');
+const ResumeContent = resumeMod.Content;
+---
+
+<BaseLayout title="Resume — Vijaya Laxmi" description="Resume of Vijaya Laxmi, Senior Full Stack Engineer">
+  <section style="padding-top: 6rem;">
+    <div class="resume-header">
+      <h2 style="margin-bottom: 0;">Resume</h2>
+      <a href={`${base}resume.pdf`} class="resume-download" download>
+        <svg class="icon" viewBox="0 0 24 24" fill="currentColor"><path d="M5 20h14v-2H5v2zm7-18L5.33 9h3.34v4h5.33V9h3.34L12 2z" transform="rotate(180 12 12)"/></svg>
+        Download PDF
+      </a>
+    </div>
+    <div class="resume-content">
+      <ResumeContent />
+    </div>
+  </section>
+</BaseLayout>
