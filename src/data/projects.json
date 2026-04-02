@@ -7,6 +7,20 @@
     "live": "https://chromewebstore.google.com/detail/every-second-counts/dbpmgoghpheaeldmfgifedhjbdookjbo"
   },
   {
+    "title": "VyPlayer",
+    "description": "A browser-based music player with reactive 3D visualizations. Search and play songs while choosing from 9 themed WebGL \"vibes\" — each scene responds to the music's frequency and amplitude in real time. Ranges from retro (Winamp, Cassette) to atmospheric (Cosmic, Rain, Flowery).",
+    "tags": ["React", "Three.js", "WebGL", "Web Audio API", "Vite"],
+    "github": "https://github.com/vijaya22/vyplayer",
+    "live": "https://vyplayer.vijaya.io/"
+  },
+  {
+    "title": "Vijaya's Kitchen",
+    "description": "A personal recipe site with a vintage zine-inspired design. Features a recipe collection, photo gallery with lightbox, and live search — built entirely with Astro content collections and vanilla CSS. Zero JS frameworks, all static.",
+    "tags": ["Astro", "CSS", "Static Site"],
+    "github": "https://github.com/vijaya22/kitchen",
+    "live": "https://kitchen.vijaya.io/"
+  },
+  {
     "title": "Be My Valentine",
     "description": "An interactive Valentine's Day message generator. Fill in details and share a personalized link with your special someone.",
     "tags": ["JavaScript", "HTML", "CSS"],
