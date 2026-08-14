@@ -1,5 +1,12 @@
 [
   {
+    "title": "Dwarfbreak Gardens",
+    "description": "A brick-breaker game set in a moonlit garden — bounce a moonstone to break bricks, rescue falling dwarfs, and chain combos with power-ups like multiball, sticky cart, and fireball. Built with vanilla HTML, CSS, JS, and the Canvas 2D API, with no game-engine dependency.",
+    "tags": ["JavaScript", "HTML", "CSS", "Canvas"],
+    "github": "https://github.com/vijaya22/dwarfbreak-gardens",
+    "live": "https://dwarfbreak-gardens.vijaya.io/"
+  },
+  {
     "title": "Every Second Counts — Chrome Extension",
     "description": "A Chrome extension that replaces your new tab with a live clock, reminding you that every second counts.",
     "tags": ["Chrome Extension", "JavaScript", "HTML", "CSS"],
